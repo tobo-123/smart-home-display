@@ -3,6 +3,9 @@ Simple LED-based display for use in a Bosch Smart Home system
 
 This is a simple display with 4 LED for use in a Bosch Smart Home system (Generation II). It communicates via ZigBee. The display can be used in automations for indicating actions and states of your smart home. Since the Bosch Smart Home System (BSH) is a closed system, we need a device which can be registered to the BSE. I use a Ledvance Smart+ LED flex controller. This controller is added to the BSE as a lamp. By sending defined colors to this lamp, it can switch LED of this display on or off. This is controlled by a ESP8266 microcontroller. 
 
+![smart display](https://github.com/tobo-123/smart-home-display/blob/main/pictures/1.jpg)
+
+
 What you need:
 
 - Ledvance Smart+ Controller, part of set 4058075208339
