@@ -2,11 +2,11 @@
 #   Smart Home Display                                                         #
 #   Last change:   19.08.2024                                                  #
 #   Version:       0.2 public                                                  #
-#   Author:        tobo_123                                                    #
-#   Github:        tobo_123                                                    # 
+#   Author:        tobo-123                                                    #
+#   Github:        tobo-123                                                    # 
 ################################################################################
   
-Copyright (c) 2024 tobo_123
+Copyright (c) 2024 tobo-123
 
 MIT License
 
