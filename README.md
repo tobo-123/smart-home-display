@@ -5,6 +5,7 @@ This is a simple display with 4 LED for use in a Bosch Smart Home system (Genera
 
 ![smart display](https://github.com/tobo-123/smart-home-display/blob/main/pictures/1.jpg)
 
+![smart display](https://github.com/tobo-123/smart-home-display/blob/main/pictures/3.jpg)
 
 What you need:
 
