@@ -7,7 +7,7 @@ What you need:
 
 - Ledvance Smart+ Controller, part of set 4058075208339
 - ESP8266 microcontroller (Mini NodeMcu with 16 pins)
-- 4x 5mm standard LED (color as you like) + resistors for LED to work on 3.3 V (blue and white can be operated directly; green, yellow and red need a 220 Ohm resistor)
+- 4x 5mm standard LED (color as you like) + resistors for LED to work on 3.3 V (blue and white can be operated directly; green, yellow and red need a 150 Ohm resistor)
 - 2x 10k pull-up resistors
 - 3D printed case (.stl files in this repository)
 - some wires
