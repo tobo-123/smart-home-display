@@ -36,4 +36,4 @@ How to set it up:
 
 Wiring:
 
-![smart display wiring](https://github.com/tobo-123/smart-home-display/blob/main/smart_display_wiring.jpg)
+![smart display wiring](https://github.com/tobo-123/smart-home-display/blob/main/smart_display_wiring.png)
