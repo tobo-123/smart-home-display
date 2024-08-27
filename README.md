@@ -34,5 +34,6 @@ How to set it up:
 10. At the beginning of the Arduino code, you will find an array. This array defines the colors which activate or deactivate a certain LED state. Use the red and blue color values you have noted and add them with a safety margin of +/-10 in the array. For example: If your red value is 950 and your blue value is 400 for a defined color, add 940 / 960 as lower/upper red value and 390/410 as lower/upper blue value in the array. See also the commends in the code.
 11. Upload the changed program. Now, you can use the colors in BSH. By sending a defined color, you trigger the corresponding state in the array and activate or deactivate a LED. Set the lamp to a defined color for at least 2 seconds and switch off the lamp afterwards. After 2 more seconds, the display is ready to recieve the next "color command".
 
+Wiring:
 
-  
+![smart display wiring](https://github.com/tobo-123/smart-home-display/blob/main/smart_display_wiring.jpg)
