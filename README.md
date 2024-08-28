@@ -7,6 +7,16 @@ This is a simple display with 4 LED for use in a Bosch Smart Home system (Genera
 
 ![smart display](https://github.com/tobo-123/smart-home-display/blob/main/pictures/2_small.jpg)
 
+
+Features:
+
+- 4 LED which can be used independently in the BSH, e.g., for indicating open windows, high humidity or as a reminder for the alarm system
+- LED can be set off, on and in flashing mode
+- power via USB
+- LED brightness can be adjusted in the program
+- low power consumption (< 0.5 W)
+
+
 What you need:
 
 - Ledvance Smart+ Controller, part of Ledvance smart+ flex set 4058075208339
