@@ -48,7 +48,7 @@ struct param {String name; int pin; int brightness; bool blinking; };
 #####   !!!!!        Adjust the following entries        !!!!!    ##################
 ##################################################################################*/
 
-bool register_client = false;                                                 //keep true for the first run. When client is registered, change to false and re-upload the program to your ESP
+bool register_client = true;                                                  //keep true for the first run. When client is registered, change to false and re-upload the program to your ESP
 
 const char* WIFI_ssid = "########";                                           //your Wifi name
 const char* WIFI_password = "#########";                                      //your Wifi password
