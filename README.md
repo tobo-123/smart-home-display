@@ -1,5 +1,5 @@
 # smart-home-display
-This is a simple display with 4 LED for use in a Bosch Smart Home system (generation II). It uses the REST API of the Bosch Smart Home controller. The display shows the state of user defined states, which can be created in the BSH app. This display is based on a ESP8266 microcontroller. 
+This is a simple display with 4 LED for use in a Bosch Smart Home system (generation II). It uses the REST API of the Bosch Smart Home controller. The display shows the state of user defined states, which can be created in the BSH app. This display is based on a ESP8266 microcontroller. If you want a more advanced display with log function have a look here: https://github.com/tobo-123/smart-home-pixel-display
 
 ![smart display](https://github.com/tobo-123/smart-home-display/blob/main/pictures/1_small.jpg)
 
